@@ -1,0 +1,21 @@
+# Build outputs
+release/
+debug/
+*.o
+*.obj
+*.exe
+moc_*.cpp
+moc_predefs.h
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# IDE
+*.pro.user
+*.pro.user.*
+.vscode/
+.idea/
+
+# Qt Creator
+*.autosave
